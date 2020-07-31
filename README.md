@@ -1,7 +1,6 @@
+Search for Youtube videos and view it.
 ## View it live here:
 https://videos-hooks-tan-two.vercel.app/
-
-
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
